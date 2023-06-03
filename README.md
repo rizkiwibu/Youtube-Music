@@ -1,4 +1,3 @@
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 ![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
 
@@ -62,7 +61,6 @@ Currently available locales are:
 - Thai (th)
 - Turkish (tr)
 - Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
 
 ## 📝 Features & Commands
 
@@ -120,14 +118,10 @@ Examples: `1` or `1,2,3`
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
+1. [Fork the repository](https://github.com/ClayzaAubert/Youtube-Music-Discord-Bot)
 2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
 6. Push to the branch: `git push origin my-new-feature`
 7. Submit a pull request
-
-## 📝 Credits
-
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
