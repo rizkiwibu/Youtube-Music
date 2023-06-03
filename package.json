@@ -3,11 +3,11 @@
   "version": "0.14.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Clayza Aubert",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/ClayzaAubert/Youtube-Music-Discord-Bot",
+  "repository": "github:ClayzaAubert:Youtube-Music-Discord-Bot",
+  "bugs": "https://github.com/ClayzaAubert/Youtube-Music-Discord-Bot/issues",
   "engines": {
     "node": ">=14.0.0"
   },
